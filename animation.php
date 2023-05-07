@@ -147,7 +147,7 @@
 </div>
 </div>
 
-<meta http-equiv="refresh" content="3; url=home">
+<meta http-equiv="refresh" content="3; url=index">
 
 
 </body>
